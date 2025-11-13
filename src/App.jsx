@@ -141,7 +141,7 @@ function App() {
           ) : null}
           <div
             ref={scrollToAns}
-            className="container h-146 overflow-scroll scrollbar-hide"
+            className="container h-130 overflow-scroll scrollbar-hide"
           >
             <div className="dark:text-zinc-300 text-zinc-800">
               <ul>
